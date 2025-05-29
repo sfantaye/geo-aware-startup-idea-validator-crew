@@ -1,4 +1,4 @@
-# [Your Crew Name] - CrewAI Crew
+# Geo-Aware Startup Idea Validator - CrewAI Crew
 
 ## 🚀 Overview
 
